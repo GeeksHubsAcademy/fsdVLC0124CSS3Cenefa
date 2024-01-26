@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    padding: 0;
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: beige;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#padre {
+
+    height: 20em;
+    width: 20em;
+
+    background-color: green;
+}
