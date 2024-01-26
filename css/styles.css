@@ -18,5 +18,31 @@ body {
     height: 20em;
     width: 20em;
 
-    background-color: green;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.hijo {
+
+    height: 20em;
+    width: 10em;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.nieto {
+
+    height: 10em;
+    width: 10em;
+
+}
+
+.blanco {
+    background-color: white;
+}
+
+.negro {
+    background-color: black;
 }
